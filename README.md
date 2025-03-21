@@ -7,7 +7,7 @@ Web Developer
 As a final-year student, I have been working with various web development technologies, including TypeScript, JavaScript, Node.js, and PostgreSQL, along with ORMs like Prisma and frameworks such as Next.js and React.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [TejasPangaonkar.me](http://tejaspangaonkar.me)
+* 🖥️  See my portfolio at [TejasPangaonkar.me](https://tejaspangaonkar.me)
 * ✉️  You can contact me at [pangaonkar.svc424@gmail.com](mailto:pangaonkar.svc424@gmail.com)
 * 🚀  I'm currently working on [mythicals.tech](http://mythicals.tech)
 
