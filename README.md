@@ -9,7 +9,7 @@ As a final-year student, I have been working with various web development techno
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [TejasPangaonkar.me](https://tejaspangaonkar.me)
 * ✉️  You can contact me at [pangaonkar.svc424@gmail.com](mailto:pangaonkar.svc424@gmail.com)
-* 🚀  I'm currently working on [mythicals.tech](http://mythicals.tech)
+* 🚀  I'm currently working on [mythicals.tech](https://mythicals.tech)
 
 ### Skills
 
